@@ -1,0 +1,15 @@
+Kelompok: 
+Kelas: X6B
+Anggota:
+1. Agung Gumelar (202243500145)
+2. Imam Alfarizi Syahputra (202243500232)
+
+Judul: Prediksi Kecanduan Social Media
+Parameter:
+- Usia
+- Jenis Kelamin
+- Durasi Penggunaan
+- Jam Tidur
+- Platform Social Media
+Metode:
+- Random Forest Regressor
